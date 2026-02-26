@@ -24,6 +24,7 @@ Oh and Ps, I love JavaScript, Its one of the more versitile languages alongside 
 <img width="48" height="48" alt="icons8-git-48" src="https://github.com/user-attachments/assets/bc89f3bb-c5c3-45d8-971b-8ad12b0b689d" />
 <img width="48" height="48" alt="icons8-json-48" src="https://github.com/user-attachments/assets/04175ae6-6fc3-43c8-8f05-642abcccc5b1" />
 <img width="48" height="48" alt="icons8-java-48" src="https://github.com/user-attachments/assets/0617c095-9ec9-4a7e-986d-99195dc4c057" />
+<img width="48" height="48" alt="icons8-visual-studio-code-2019-48" src="https://github.com/user-attachments/assets/815406c0-69a2-43af-85d2-c3fab89d8056" />
 
 
 

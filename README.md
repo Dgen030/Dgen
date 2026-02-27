@@ -12,7 +12,7 @@ I’m especially interested in Artificial Intelligence and exploring how AI can 
 
 I am continuously learning and seeking improvement in my craft
 
-Oh and Ps, I love JavaScript, Its one of the more versitile languages alongside Python😉😅
+Oh and PS, I love JavaScript, I think it's one of the more versitile languages alongside Python😉😅
 
 🛠️ Current Tech Stack/Tools and Skills of Choice:
 

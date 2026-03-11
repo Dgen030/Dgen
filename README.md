@@ -15,7 +15,6 @@ I am continuously learning and seeking improvement in my craft
 Oh and PS, I love JavaScript, I think it's one of the more versitile languages alongside Python😉😅
 
 🛠️ Current Tech Stack/Tools and Skills of Choice:
-
 <img width="48" height="48" alt="icons8-html-5-48" src="https://github.com/user-attachments/assets/fb873773-dc7b-47a6-83a5-2a4fc3ca22a7" />
 <img width="48" height="48" alt="icons8-css-48" src="https://github.com/user-attachments/assets/3db44e26-379c-4bf8-8248-7988d87fa9ff" />
 <img width="48" height="48" alt="icons8-javascript-48" src="https://github.com/user-attachments/assets/a898b7d8-457a-4123-84b9-b18f1ac2d2f8" />
@@ -26,6 +25,6 @@ Oh and PS, I love JavaScript, I think it's one of the more versitile languages a
 <img width="48" height="48" alt="icons8-java-48" src="https://github.com/user-attachments/assets/0617c095-9ec9-4a7e-986d-99195dc4c057" />
 <img width="48" height="48" alt="icons8-visual-studio-code-2019-48" src="https://github.com/user-attachments/assets/815406c0-69a2-43af-85d2-c3fab89d8056" />
 
-
+My Ultimate Goal is to Master Creating Complete, Practical, Useful and Versitile Applications that solve and meet real world problems and demands!
 
 
